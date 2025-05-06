@@ -58,3 +58,59 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>ملخصات السنة الأولى ثانوي</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffe6f0;
+      padding: 20px;
+      direction: rtl;
+    }
+    h1 {
+      color: #d63384;
+    }
+    .summary {
+      background-color: #fff0f5;
+      border: 1px solid #ffb6c1;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 8px #f9c5d1;
+    }
+    .summary h2 {
+      color: #c2185b;
+    }
+    .summary a {
+      display: inline-block;
+      margin-top: 10px;
+      color: #d63384;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .summary a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📚 ملخصات السنة الأولى ثانوي</h1>
+
+  <div class="summary">
+    <h2>📘 ملخص درس الدوال المرجعية</h2>
+    <p>
+      هذا الملخص يشرح أهم أنواع الدوال مثل الدالة الخطية والتآلفية والتربيعية مع تمثيلاتها وخصائصها.
+    </p>
+    <a href="https://www.dzexams.com/ar/documents/WUFQWjVlVHhtRksrK2ZXbXQ4REFVZz09" target="_blank">🔗 تحميل</a>
+  </div>
+
+  <div class="summary">
+    <h2>📗 ملخص الدائرة المثلثية</h2>
+    <p>
+      شرح مبسط للدائرة المثلثية والزوايا الشهيرة وحساب الجيب وجيب التمام مع تمارين.
+    </p>
+    <a href="https://www.dzexams.com/ar/documents/ZlVyUXZZL2N5Uk55MW1J
