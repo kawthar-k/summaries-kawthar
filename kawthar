@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>ملخصات السنة الأولى ثانوي</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffe6f0;
+      padding: 20px;
+      direction: rtl;
+    }
+    h1 {
+      color: #c2185b;
+    }
+    .summary {
+      background-color: #fff0f5;
+      border: 1px solid #f8bbd0;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 182, 193, 0.4);
+    }
+    .summary h2 {
+      color: #ad1457;
+    }
+    .summary a {
+      display: inline-block;
+      margin-top: 10px;
+      color: #e91e63;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .summary a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📚 ملخصات السنة الأولى ثانوي</h1>
+
+  <div class="summary">
+    <h2>📘 ملخص درس الدوال المرجعية</h2>
+    <p>
+      هذا الملخص يشرح أهم أنواع الدوال مثل الدالة الخطية والدالة التآلفية والدالة التربيعية مع تمثيلاتها البيانية وخصائصها.
+    </p>
+    <a href="https://www.dzexams.com/ar/documents/WUFQWjVlVHhtRksrK2ZXbXQ4REFVZz09" target="_blank">🔗 تحميل الملخص</a>
+  </div>
+
+  <div class="summary">
+    <h2>📗 ملخص درس الدائرة المثلثية وحساب المثلثات</h2>
+    <p>
+      هذا الملخص يشرح مفاهيم الدائرة المثلثية، الزوايا الشهيرة، وكيفية حساب الجيب وجيب التمام للزوايا، مع تمارين تطبيقية.
+    </p>
+    <a href="https://www.dzexams.com/ar/documents/ZlVyUXZZL2N5Uk55MW1JblpDc29zUT09" target="_blank">🔗 تحميل الملخص</a>
+  </div>
+
+</body>
+</html>
